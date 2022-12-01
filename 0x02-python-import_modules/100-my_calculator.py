@@ -4,7 +4,7 @@ from sys import argv, exit
 if __name__ == "__main__":
     arg_len = len(argv)
     if arg_len != 4:
-        print(f"Usage: {argv[0]} <a> <operator> <b>")
+        print(f"Usage: ./100-my_calculator.py <a> <operator> <b>")
         exit(1)
     num1 = int(argv[1])
     num2 = int(argv[3])
