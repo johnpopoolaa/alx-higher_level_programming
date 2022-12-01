@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
+    import hidded_4
 
     names = dir(hidded_4)
     for name in names:
