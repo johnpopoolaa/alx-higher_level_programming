@@ -9,7 +9,7 @@ if __name__ == "__main__":
     num1 = int(argv[1])
     num2 = int(argv[3])
     if argv[2] == "+":
-        print(f"[num1} + {num2} = {add(num1, num2)}")
+        print(f"{num1} + {num2} = {add(num1, num2)}")
     elif argv[2] == "-":
         print(f"{num1} - {num2} = {sub(num1, num2)}")
     elif argv[2] == "*":
