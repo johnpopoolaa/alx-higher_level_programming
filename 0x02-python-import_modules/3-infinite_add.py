@@ -11,4 +11,4 @@ if __name__ == "__main__":
         sum += int(argv[i])
         i += 1
 
-        print(sum)
+    print(sum)
