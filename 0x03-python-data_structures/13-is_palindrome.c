@@ -53,7 +53,7 @@ int compare(listint_t *h1, listint_t *h2)
 	}
 
 	if (tmp1 == NULL && tmp2 == NULL)
-	return (1);
+		return (1);
 
 	return (0);
 }
