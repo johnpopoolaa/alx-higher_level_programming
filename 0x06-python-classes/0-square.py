@@ -1,9 +1,7 @@
 #!/usr/bin/python3
-"""
-this writes an empty class
-"""
+"""Square class to represent a square"""
+
+
 class Square():
-    """
-    empty class written
-    """
+    """Empty class"""
     pass
