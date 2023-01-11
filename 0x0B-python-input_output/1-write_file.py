@@ -9,5 +9,5 @@ def write_file(file_name"", text=""):
     """
     module write_file
     """
-    with open(filename, 'W')as f:
+    with open(filename, 'w')as f:
         return f.write(text)
