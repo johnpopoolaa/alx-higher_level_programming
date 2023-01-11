@@ -5,7 +5,7 @@ the number of characters written
 """
 
 
-def write_file(filename"", text=""):
+def write_file(filename="", text=""):
     """ module write_file
     """
     with open(filename, 'w') as f:
