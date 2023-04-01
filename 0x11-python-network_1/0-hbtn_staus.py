@@ -1,5 +1,7 @@
 #!/usr/bin/python3
 
+"""This script fetches a url using the package 'urllib' and a 'with' statement"""
+
 import urllib.request
 
 url = "https://alx-intranet.hbtn.io/status"
